@@ -89,14 +89,14 @@ a:hover {
 }
 
 .computer-img {
-  width: 25%;
+  width: 30%;
   float: left;
   margin-right: 30px;
 }
 
 .web-img {
   float: right;
-  width: 25%;
+  width: 30%;
   margin-left: 30px;
   border-radius: 100%;
 }
