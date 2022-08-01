@@ -1,0 +1,11 @@
+git config --global user.name Sonu
+git config --global user.email "smrutisonu7070@gmail.com"
+touch .gitignore
+git init
+git add .
+git commit -m "initial commit"
+git status   # Just to see
+ssh-keygen -t ed25519 -C "your_email@example.com"
+cat <paste the public key address link>
+then paste the key to github account
+git push origin master
